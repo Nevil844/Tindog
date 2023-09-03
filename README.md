@@ -1,2 +1,3 @@
 # Tindog
-a website made using bootstap with angela yu's web dev course
+
+a website made using bootstap, css and html.
